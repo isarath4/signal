@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/OneSignal/Example/OneSignalExampleScene.unity
+  isLoaded: 1
+  isActive: 1
